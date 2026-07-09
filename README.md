@@ -101,7 +101,7 @@ ER Diagram
 
 ### Customer Segmentation
 
-*(Insert Screenshot)*
+
 
 ---
 
