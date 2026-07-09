@@ -46,7 +46,7 @@ The dataset contains information about:
 
 ER Diagram
 
-> *(Insert your ER Diagram image here)*
+
 
 ---
 
@@ -81,23 +81,21 @@ ER Diagram
 
 ---
 
-## 📷 Query Output Screenshots
+## 📷 Query Output 
 
 ### Average Order Value by Country
 
-*(Insert Screenshot)*
 
 ---
 
 ### Top Selling Products
 
-*(Insert Screenshot)*
 
 ---
 
 ### Sales by Product Line
 
-*(Insert Screenshot)*
+
 
 ---
 
@@ -109,13 +107,13 @@ ER Diagram
 
 ### Sales Representative Performance
 
-*(Insert Screenshot)*
+
 
 ---
 
 ### Market Basket Analysis
 
-*(Insert Screenshot)*
+
 
 ---
 
